@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Harin Shaju
 
-🎓 **BCA Graduate** | 💻 **Backend Developer & Data Enthusiast**  
+🎓 **BCA Graduate** | 💻 **Backend & Data Enthusiast**  
 🔍 Exploring real-world applications of Backend Development, Data Engineering, and Data Analysis
 
 ---
