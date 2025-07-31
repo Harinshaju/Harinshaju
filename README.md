@@ -37,11 +37,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![Harin's GitHub stats](https://github-readme-stats.vercel.app/api?username=harinshaju&show_icons=true&theme=radical)
-
----
 
 ### 🔗 Let's Connect
 
@@ -52,8 +47,8 @@
 
 ### 🎯 Currently Exploring
 
-- 🔹 Scalable backend systems with Django & REST APIs  
-- 🔹 Building data pipelines and ETL processes (Data Engineering)  
-- 🔹 Data Analysis using Pandas, NumPy, and Matplotlib  
-- 🔹 Cloud fundamentals and real-time data processing  
-- 🔹 Contributing to meaningful GitHub projects
+- 🚀 **Backend Development** – Building scalable APIs using Django, Django REST Framework & best practices  
+- 🔄 **Data Engineering Foundations** – ETL pipelines, data cleaning, and workflow 
+- 📊 **Exploratory Data Analysis (EDA)** – Excel + Python (Pandas, NumPy, Matplotlib) for pattern discovery  
+- ☁️ **Cloud & Real-Time Systems** – Basics of cloud platforms, data streaming & scalable pipelines  
+- 🤝 **Open Source Collaboration** – Contributing to beginner-friendly issues and growing with the community
