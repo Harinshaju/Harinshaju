@@ -5,14 +5,6 @@
 
 ---
 
-### 🚀 About Me
-
-I'm a self-motivated tech enthusiast passionate about building backend systems and working with data.  
-With hands-on experience in Python, Django, and SQL, I focus on practical coding over theoretical complexity.
-
-Not just a BCA graduate — I’m diving deep into the data ecosystem, learning tools and workflows used in industry for **Data Engineering**, **Data Analysis**, and scalable backend development.
-
----
 
 ### 🛠️ Tech Stack
 
