@@ -20,4 +20,4 @@
 ### 📫 Connect with Me
 
 - 📧 Email: your-email@example.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 💼 LinkedIn: [linkedin.com/in/harinshaju](https://linkedin.com/in/harinshaju)
