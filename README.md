@@ -19,5 +19,5 @@
 
 ### 📫 Connect with Me
 
-- 📧 Email: your-email@example.com
+- 📧 Email: harinshaju07@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/harinshaju](https://linkedin.com/in/harinshaju)
