@@ -45,10 +45,3 @@
 
 ---
 
-### 🎯 Currently Exploring
-
-- 🚀 **Backend Development** – Building scalable APIs using Django, Django REST Framework & best practices  
-- 🔄 **Data Engineering Foundations** – ETL pipelines, data cleaning, and workflow 
-- 📊 **Exploratory Data Analysis (EDA)** – Excel + Python (Pandas, NumPy, Matplotlib) for pattern discovery  
-- ☁️ **Cloud & Real-Time Systems** – Basics of cloud platforms, data streaming & scalable pipelines  
-- 🤝 **Open Source Collaboration** – Contributing to beginner-friendly issues and growing with the community
