@@ -1,7 +1,6 @@
 ## 👋 Hello, I'm Harin Shaju
 ---
 
-
 ### 🛠️ Tech Stack
 
 #### 💻 Languages & Frameworks
@@ -18,19 +17,19 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-
 #### ☁️ Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-
 
 ### 🔗 Let's Connect
 
-- 📧 **Email**: [harinshaju07@gmail.com](mailto:harinshaju07@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/harinshaju](https://linkedin.com/in/harinshaju)
+[![Email](https://img.shields.io/badge/Email-harinshaju07@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harinshaju07@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harinshaju)
 
 ---
-
