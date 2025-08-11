@@ -1,8 +1,4 @@
 ## 👋 Hello, I'm Harin Shaju
-
-🎓 **BCA Graduate** | 💻 **Backend & Data Enthusiast**  
-
-
 ---
 
 
