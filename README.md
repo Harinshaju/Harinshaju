@@ -16,7 +16,6 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-
 #### ☁️ Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -27,9 +26,15 @@
 
 ---
 
+### 📊 GitHub Analytics
+
+![Harin's GitHub stats](https://github-readme-stats.vercel.app/api?username=harinshaju&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harinshaju&layout=compact&theme=radical)
+
+---
+
 ### 🔗 Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-harinshaju07@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harinshaju07@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harinshaju)
-
----
