@@ -28,6 +28,13 @@
 
 ## 🔗 Connect With Me  
 <p align="center">
-  <a href="mailto:harinshaju07@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/></a> 
-  <a href="https://linkedin.com/in/harinshaju"><img src="https://cdn.jsdelivr.net/gh/img/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>
+  <!-- Gmail -->
+  <a href="mailto:harinshaju07@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Gmail"/>
+  </a> 
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/harinshaju" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/>
+  </a>
 </p>
